@@ -1,35 +1,35 @@
 # karaz-1
-Smart Kamus Arab Indo Az-Zawawi v1
+<b>Smart Kamus Arab Indo Az-Zawawi v1</b>
 
-Kamus Smart Arab Indo berbasis AI.
-🌟 Kamus Arab Biasa Sudah Biasa? Saatnya Pindah ke yang SMART! 🌟
+<b>Kamus Smart Arab Indo berbasis AI.</b>
+🌟 Kamus Arab Sudah Biasa? Saatnya Pindah ke yang SMART! 🌟
 
 Kabar gembira untuk para santri, pelajar, pendidik, dan pecinta Bahasa Arab! 📖✨
 
-Telah hadir:
-🚀 Smart Kamus Arab Indo Az-Zawawi v1 🚀
-Asisten Linguistik Berbasis AI Canggih dalam Genggaman Anda
+<b>Telah hadir:</b>
+🚀 <b>Smart Kamus Arab Indo Az-Zawawi v1</b> 🚀
+<i>Asisten Linguistik Berbasis AI Canggih dalam Genggaman Anda</i>
 
 Bukan sekadar menerjemahkan, kamus ini adalah paket lengkap untuk menguasai Bahasa Arab dengan teknologi Masa Depan:
 
-🔍 Fitur Unggulan:
+🔍 <b>Fitur Unggulan:</b>
 
-🧠 Analisis & Telaah Kalimat : Ketik kalimat apa saja (gaul/formal), AI akan mengoreksi susunannya dan membedah kaidah Nahwu & Sharaf secara otomatis!
+🧠 <b>Analisis & Telaah Kalimat :</b> Ketik kalimat apa saja (gaul/formal), AI akan mengoreksi susunannya dan membedah kaidah Nahwu & Sharaf secara otomatis!
 
-🖼️ Visualisasi Isim AI : Cari kata benda? AI akan langsung membuatkan gambar ilustrasi benda tersebut agar lebih mudah dihafal secara visual.
+🖼️ <b>Visualisasi Isim AI :</b> Cari kata benda? AI akan langsung membuatkan gambar ilustrasi benda tersebut agar lebih mudah dihafal secara visual.
 
-🎤 Voice AI (Lafal Fasih): Dilengkapi fitur suara dengan makhraj yang fasih. Tahu arti, tahu juga cara bacanya!
+🎤 <b>Voice AI (Lafal Fasih):</b> Dilengkapi fitur suara dengan makhraj yang fasih. Tahu arti, tahu juga cara bacanya!
 
-🕹️ Game Edukasi: Belajar sambil main! Uji hafalan dan pemahaman kaidahmu lewat game kuis yang seru dan menantang.
+🕹️ <b>Game Edukasi:</b> Belajar sambil main! Uji hafalan dan pemahaman kaidahmu lewat game kuis yang seru dan menantang.
 
-🎯 Sangat Cocok Untuk:
+🎯 <b>Sangat Cocok Untuk:</b>
 Pelajar, Guru, Dosen, Santri, dan siapa saja yang ingin memperdalam Bahasa Arab tanpa ribet.
 
-✅ Kelebihan :
+✅ <b>Kelebihan :</b>
 
-🚫 Tanpa Instal Aplikasi! Tidak memenuhi memori HP.
+🚫 <b>Tanpa Instal Aplikasi!</b> Tidak memenuhi memori HP.
 
-🌐 Cukup Pakai Google Chrome . Klik linknya, otomatis terbuka dan siap digunakan.
+🌐 <b>Cukup Pakai Google Chrome.</b> Klik linknya, otomatis terbuka dan siap digunakan.
 
 ⚡ Ringan & Cepat.
 
